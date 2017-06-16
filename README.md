@@ -21,7 +21,7 @@ Sender
 ![sender](https://user-images.githubusercontent.com/25969589/27216746-db19fd6a-522b-11e7-9db6-f84a5b202bed.png)
 
 Receiver
-![receiver](https://user-images.githubusercontent.com/25969589/27216706-aef233e2-522b-11e7-939d-a1e3ffa171c0.png)
+![receiver_bb](https://user-images.githubusercontent.com/25969589/27233599-d4f8d80a-526e-11e7-8425-8f1b6144f575.png)
 
 ### Block Diagram 
 
