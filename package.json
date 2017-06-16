@@ -1,0 +1,27 @@
+{
+  "name": "ips-433mhz",
+  "version": "1.0.0",
+  "description": "An indoor positioning system with 433-mhz chip and Arduino micro-controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hle92294/IPS-433mhz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hle92294/IPS-433mhz/issues"
+  },
+  "homepage": "https://github.com/hle92294/IPS-433mhz#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "http": "0.0.0",
+    "kalmanjs": "^1.0.0-beta",
+    "optimized-averages": "^1.0.0",
+    "sylvester": "0.0.21"
+  }
+}
